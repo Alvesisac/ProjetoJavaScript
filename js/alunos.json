@@ -1,0 +1,27 @@
+{
+    "page": 1,
+    "results": [
+      
+        {
+            "nome": "João",
+            "idade": 14,
+            "idMatetricula": 1,
+            "turma": 111
+        },
+
+         {
+             "nome": "Pedro",
+             "idade": 10,
+             "idMatetricula": 2,
+             "turma": 112
+         },
+
+         {
+           "nome": "Rosana",
+           "idade": 22,
+           "idMatetricula": 3,
+           "turma": 110
+         }
+    ]
+
+}
